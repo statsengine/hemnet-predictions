@@ -1,0 +1,51 @@
+exact_address,price,size,rooms,floor,monthly_fee,price_per_sqm,location,has_elevator,has_balcony,latitude,longitude
+"Nybrogatan 77, 5 tr",14000000,104.0,4.0,5,6166,134615,"Östermalm, Stockholms kommun",True,True,,
+Sankt Eriksgatan 41,2895000,28.0,1.0,2,819,103393,"Kungsholmen - Fridhemsplan, Stockholms kommun",True,True,,
+Bäckvägen 89,2695000,45.0,2.0,3,4145,59889,"Telefonplan/Midsommarkransen, Stockholms kommun",False,False,,
+Dartanjangs Gata 48,4995000,100.0,4.0,3,6229,49950,"Bromma - Annedal, Stockholms kommun",True,True,59.3621668,17.9456043
+Follingbogatan 18,1195000,23.0,1.0,4,2851,51957,"Bromma / Beckomberga, Stockholms kommun",True,False,59.3580887,17.9028078
+Maltesholmsvägen 147,2950000,79.0,3.0,12,5437,37342,"Hässelby Strand, Stockholms kommun",True,True,59.3640997,17.8359228
+Primusgatan 62,8995000,90.0,3.0,8,6240,99944,"Lilla Essingen, Stockholms kommun",True,False,59.3238455,18.0017606
+"Tellusborgsvägen 94, uteplats",2695000,39.0,2.0,1,2798,69103,"Midsommarkransen / Telefonplan, Stockholms kommun",True,False,,
+Malmövägen 75,7645000,95.0,4.0,1,6248,80474,"Johanneshov, Stockholms kommun",True,True,,
+Mobilgatan 3F,2675000,27.0,1.0,1,2304,99074,"Telefonplan, Stockholms kommun",True,False,,
+"Torstenssonsgatan 8A, 3tr",6995000,63.0,2.0,3,4921,111032,"Nedre Östermalm, Stockholms kommun",False,False,,
+Ystadsvägen 109,6695000,86.0,3.0,1,5464,77849,"Johanneshov, Stockholms kommun",True,True,,
+Malmövägen 71,9995000,114.0,5.0,1,7374,87675,"Johanneshov, Stockholms kommun",True,True,,
+Sockenvägen 611,3495000,67.0,2.0,1,5416,52164,"Bagarmossen, Stockholms kommun",True,True,59.2808377,18.1261221
+Brahegatan 27,5500000,48.0,2.0,1,1768,114583,"Östermalm, Stockholms kommun",True,False,59.3404671,18.0779862
+Hagagatan 12,6895000,63.0,3.0,1,3912,109444,"Vasastan - Odenplan, Stockholms kommun",True,True,,
+Hagagatan 17N,2995000,43.0,2.0,1,2271,69651,"Vasastan - Odenplan, Stockholms kommun",True,False,,
+"Fatburs Kvarngata 2, 1tr",3795000,56.5,3.0,1,5292,67168,"Maria, Stockholms kommun",True,True,,
+"Gävlegatan 2, 4tr",3195000,29.0,1.0,4,484,110172,"Vasastan, Stockholms kommun",True,False,,
+"Sorögatan 13, 1 tr",1700000,45.0,2.0,2,2864,37778,"Kista, Stockholms kommun",True,False,,
+"Ludvigsbergsgatan 15, 2 tr",6795000,81.0,3.0,2,3749,83889,"Södermalm, Stockholms kommun",True,True,,
+Bjurholmsplan 23A,4795000,61.0,2.0,1,4817,78607,"Södermalm - SoFo, Stockholms kommun",True,False,,
+"Nordenskiöldsgatan 86, 2  tr",20000000,109.0,4.0,2,5445,183486,"Djurgården, Stockholms kommun",True,True,,
+Sandhamnsgatan 75B,7395000,82.0,3.0,1,6186,90183,"Gärdet, Stockholms kommun",True,False,59.3426276,18.110343
+Roslagsgatan 21A,5400000,54.0,2.0,2,2668,100000,"Vasastan, Stockholms kommun",False,False,59.3461687,18.0601415
+Gamla Tyresövägen 351 C,7195000,74.0,3.0,3,4213,97230,"Enskede - Enskededalen, Stockholms kommun",False,True,59.2843137,18.0988974
+Dalagatan 6,6895000,69.0,3.0,1,2606,99928,"Vasastan - Norrmalm, Stockholms kommun",True,False,59.3369822,18.0502244
+Rådmansgatan 11,13495000,109.0,4.0,1,3845,123807,"Östermalm, Stockholms kommun",True,True,59.3431571,18.0691925
+Medaljonggatan 4B,2435000,34.0,1.0,3,3175,71618,"Älvsjö, Stockholms kommun",True,False,59.2828215,17.9987564
+Rutger Fuchsgatan 9,3895000,47.0,2.0,2,2877,82872,"Södermalm - Katarina Sofia, Stockholms kommun",True,False,,
+"Bellmansgatan 19, 2tr",9900000,83.0,3.0,2,4295,119277,"Stockholm, Stockholms kommun",False,True,,
+Lillhagsvägen 18,2100000,69.0,3.0,3,6314,30435,"Hagsätra, Stockholms kommun",True,True,59.26728,18.012917
+Kista alléväg 11,1650000,37.6,2.0,4,3168,43883,"Kista, Stockholms kommun",True,True,59.4079054,17.9437642
+"Brantingsgatan 25, 4 tr",2750000,27.0,1.0,4,2208,101852,"Gärdet, Stockholms kommun",True,True,,
+Emmyborgsgatan,5040000,47.0,2.0,2,4110,107234,"Marieviks Udde, Stockholms kommun",True,True,,
+Emmyborgsgatan,4640000,49.0,2.0,3,4210,94694,"Marieviks Udde, Stockholms kommun",True,True,,
+Hagagatan 18,7950000,70.0,3.0,3,5916,113571,"Vasastan, Stockholms kommun",False,True,59.3453708,18.0518511
+Bygärdesvägen 4,1295000,28.0,1.0,2,2003,46250,"Spånga - Bromsten, Stockholms kommun",False,False,,
+Wittstocksgatan 28,6950000,58.0,2.0,3,1175,119828,"Östermalm, Stockholms kommun",True,False,59.3382997,18.0977638
+Lützengatan 3,23250000,195.0,6.0,0,6201,119231,"Invid Karlaplan, Stockholms kommun",True,False,,
+Arkitektvägen 45,3195000,50.0,2.0,1,3077,63900,"Abrahamsberg, Stockholms kommun",True,False,59.331067,17.9516877
+Smedsbacksgatan 7,8495000,77.0,3.0,8,4833,110325,"Gärdet, Stockholms kommun",True,True,59.3480485,18.0988912
+Starrängsringen 23,5995000,58.0,2.0,1,3518,103362,"Nedre Gärdet, Stockholms kommun",True,True,,
+Brännkyrkagatan 92A,2395000,25.0,1.0,2,1983,95800,"Södermalm - Maria Högalid, Stockholms kommun",False,False,,
+Ringvägen 41A,7450000,86.0,4.0,1,4119,86628,"Södermalm, Stockholms kommun",True,True,59.3131639,18.0543159
+Skebokvarnsvägen 366,3300000,92.5,4.0,3,8185,35676,"Högdalen, Stockholms kommun",True,True,59.2619148,18.0398378
+Perstorpsvägen,2495000,45.0,2.0,1,3995,55444,"Farsta, Stockholms kommun",True,False,59.2377731,18.1195962
+Floragatan 12,15750000,88.0,3.0,5,5358,178977,"Östermalm, Stockholms kommun",True,True,59.3427546,18.0760882
+"Skeppargatan 100, 1 tr",4450000,43.5,2.0,1,2809,102299,"Östermalm Nedre Gärdet, Stockholms kommun",True,True,,
+Perstorpsvägen,2495000,48.0,2.0,1,4136,51979,"Farsta, Stockholms kommun",True,False,59.2377731,18.1195962
