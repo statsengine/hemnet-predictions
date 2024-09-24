@@ -57,17 +57,7 @@ def sanitize_fee(fee_str):
         return int(re.sub(r'[^\d]', '', fee_str))
     return None
 
-def sanitize_price_per_sqm(price_per_sqm_str):
-    if price_per_sqm_str:
-        return int(re.sub(r'[^\d]', '', price_per_sqm_str))
-    return None
-
 def sanitize_address(address_str):
-    """
-    Trims the address to exclude any part after a comma.
-    Example:
-        "Sandfjärdsgatan 15, 3tr" -> "Sandfjärdsgatan 15"
-    """
     if address_str:
         return address_str.split(',', 1)[0].strip()
     return address_str
